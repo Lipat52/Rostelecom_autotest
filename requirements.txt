@@ -1,0 +1,5 @@
+pytest~=6.2.5
+termcolor~=2.1.1
+selenium~=4.6.0
+python-dotenv~=0.21.0
+allure-pytest
