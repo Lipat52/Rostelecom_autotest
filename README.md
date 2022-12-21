@@ -10,7 +10,7 @@
 
 [pages/elements.py](https://github.com/Lipat52/Rostelecom_autotest/blob/master/pages/elements.py) содержит вспомогательный класс для определения веб-элементов на веб-страницах.
 
-[tests/test_registation.py](https://github.com/Lipat52/Rostelecom_autotest/blob/master/pages/rt.py) содержит тестs Web UI для ростелекома ( https://b2c.passport.rt.ru )
+[tests/test_registation.py](https://github.com/Lipat52/Rostelecom_autotest/blob/master/tests/test_registration.py) содержит тесты Web UI для ростелекома ( https://b2c.passport.rt.ru )
 
 <b>Как запустить тесты</b>
 
